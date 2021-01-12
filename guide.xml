@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal City TV">
+    <display-name lang="es">City Tv</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210112003000 +0100" stop="20210112020000 +0100" channel="Canal City TV">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20210112020000 +0100" stop="20210112030000 +0100" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20210112030000 +0100" stop="20210112043000 +0100" channel="Canal City TV">
+    <title lang="es">No trague entero</title>
+  </programme>
+  <programme start="20210112043000 +0100" stop="20210112053000 +0100" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20210112053000 +0100" stop="20210112060000 +0100" channel="Canal City TV">
+    <title lang="es">Comercial - Religioso</title>
+  </programme>
+  <programme start="20210112060000 +0100" stop="20210112090000 +0100" channel="Canal City TV">
+    <title lang="es">Bravíssimo</title>
+  </programme>
+  <programme start="20210112090000 +0100" stop="20210112103000 +0100" channel="Canal City TV">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210112103000 +0100" stop="20210112113000 +0100" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20210112113000 +0100" stop="20210112153000 +0100" channel="Canal City TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20210112153000 +0100" stop="20210112163000 +0100" channel="Canal City TV">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20210112163000 +0100" stop="20210112173000 +0100" channel="Canal City TV">
+    <title lang="es">Aquí no hay quién viva</title>
+  </programme>
+  <programme start="20210112173000 +0100" stop="20210112190000 +0100" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210112190000 +0100" stop="20210112203000 +0100" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20210112203000 +0100" stop="20210112213000 +0100" channel="Canal City TV">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20210112213000 +0100" stop="20210112220000 +0100" channel="Canal City TV">
+    <title lang="es">Los Años Maravillosos</title>
+  </programme>
+  <programme start="20210112220000 +0100" stop="20210112230000 +0100" channel="Canal City TV">
+    <title lang="es">El oso Yogui</title>
+  </programme>
+  <programme start="20210112230000 +0100" stop="20210113000000 +0100" channel="Canal City TV">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20210113000000 +0100" stop="20210113010000 +0100" channel="Canal City TV">
+    <title lang="es">Presidencia de la República</title>
+  </programme>
+  <programme start="20210113010000 +0100" stop="20210113020000 +0100" channel="Canal City TV">
+    <title lang="es">La Hija del Jardinero</title>
+  </programme>
+  <programme start="20210113020000 +0100" stop="20210113033000 +0100" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20210113033000 +0100" stop="20210113043000 +0100" channel="Canal City TV">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20210113043000 +0100" stop="20210113060000 +0100" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20210113060000 +0100" stop="20210113063000 +0100" channel="Canal City TV">
+    <title lang="es">Comercial - Religioso</title>
+  </programme>
+  <programme start="20210113063000 +0100" stop="20210113093000 +0100" channel="Canal City TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20210113093000 +0100" stop="20210113100000 +0100" channel="Canal City TV">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20210113100000 +0100" stop="20210113113000 +0100" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20210113203000 +0100" stop="20210113213000 +0100" channel="Canal City TV">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+</tv>
